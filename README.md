@@ -2,7 +2,7 @@
     <a href="https://youz2me.notion.site/PortUS-f4da930d1fb349ed81386b46fe24285a?pvs=4"><img alt="PortUS" src="https://github.com/Voldemorp/MP23_TermProject_Voldemorp/assets/80394340/fb6cd226-e6ec-4e43-afc3-10f0d68cb2b4" width="400px"></a>
 </p>
 <p align="center">
-    <a>2023-1 Term Project of Mobile Programming in Gachon Univ. Dept of Software</a>
+    <a>2023-1 Term Project of Software Engingeering in Gachon Univ. Dept of Software</a>
 </p>
 <h3 align="center">
     PortUS! is a local restaurant sharing app recommended by locals.
