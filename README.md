@@ -1,3 +1,5 @@
+<br>
+<br>
 <p align="center">
     <a href="https://youz2me.notion.site/PortUS-f4da930d1fb349ed81386b46fe24285a?pvs=4"><img alt="PortUS" src="https://github.com/Voldemorp/MP23_TermProject_Voldemorp/assets/80394340/fb6cd226-e6ec-4e43-afc3-10f0d68cb2b4" width="400px"></a>
 </p>
@@ -21,5 +23,5 @@
 
 ## Used Skills
 <picture align="center">
-  <img width="1195" alt="스크린샷 2023-06-06 오후 11 08 59" src="https://github.com/Voldemorp/MP23_TermProject_Voldemorp/assets/80394340/9157d65c-6717-437d-b2b7-3f230c5d71db">
+  <img width="1195" alt="스크린샷 2023-06-06 오후 11 08 59" src="https://github.com/Voldemorp/MP23_TermProject_Voldemorp/assets/80394340/9157d65c-6717-437d-b2b7-3f230c5d71db">
 </picture>
